@@ -1,0 +1,9 @@
+{
+    "require": {
+        "uzyn/cakephp-opauth": "*",
+        "opauth/opauth": "*",
+        "opauth/facebook": "*",
+        "opauth/google": "*",
+        "opauth/twitter": "*"
+    }
+}
